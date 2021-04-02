@@ -1,0 +1,128 @@
+<html><head>
+	<title>Livelihood</title>
+<link rel="preconnect" href="https://fonts.gstatic.com"><link href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@300;700&amp;display=swap" rel="stylesheet"><link rel="stylesheet" type="text/css" href="untitled.css"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"></head>
+ 
+
+
+
+ 
+
+<body>
+
+
+<!--logo-->
+<a href="index.html">
+	<img class="lg" src="logo.png"></a>
+
+
+<!--navagation bar-->
+<div class="navbar"><bold>
+
+  <a class="active" href="index.html" style=" ; color: black;"></a><p><a class="active" href="index.html" style=" ; color: black;"><u>Home</u></a>
+  <a href="jobs.html" style="text-decoration: none; color: black;">Jobs</a>
+  <a href="AboutUs.html" style="text-decoration: none; color: black;">AboutUs</a>
+  <a href="#contact" style="text-decoration: none; color: black;">Contact</a>
+
+</p></bold></div>
+
+
+
+
+
+<!-- Banner and Find-Hire Button-->
+<center> 
+	
+<div class="slider">
+      <div class="img-box">
+         
+      </div>
+
+     <button onclick="prev()"><img id="ttt" class="big" onclick="pictureChange()" src="ssdd.png"></button>
+  
+    </div>
+
+
+
+
+</center>
+
+
+
+
+
+
+
+
+<!--Writings-->
+
+<h1>It's our job to 
+	<br>find you your 
+	<br> dream job
+</h1>
+<h4>We will assist job seekers through the searching process.
+	<br>
+Our recruiting team will assist with identifying, focusing, and <br>targeting a promising position.<br>
+We will set up a consultation to discuss your work history,<br> skills, and talents, as well as your goals and objectives. All of<br> this will help contribute to our being able to suggest appropri-<br> ate and meaningful job choices.
+</h4>
+
+
+<!--Companys & Map imges & Resume img-->
+<div class="row">
+<img class="map" src="wide.jpg">
+</div>
+<center>
+<img class="com" src="company.jpg">
+<img class="ways" src="ways.jpg">
+<img class="res" src="resume.jpeg">
+
+
+
+<!--Contact Buttons-->
+<hr id="contact">
+<img src="icon.png" usemap="#workmap">
+
+<map name="workmap">
+
+<!---phone-->
+<area shape="rect" coords="1130,90,810,300" alt="Phone" target="blank" href="tel:7189865520">
+
+<!--email--->
+<area shape="rect" coords="780,160,310,240" alt="click" target="blank" href="mailto:avi@livelihoodsmart.com?Subject= I Wanna Sign Up to Livelihood Email.">
+
+<!--watsapp--->
+<area shape="circle" coords="240,190,30" alt="watsapp" target="blank" href="https://api.whatsapp.com/send/?phone=17189865520&amp;text&amp;app_absent=0">
+
+<!--instagram-->
+<area shape="circle" coords="170,190,30," alt="#Cup of coffee" target="blank" href="https://instagram.com/livelihoodjob?igshid=148x62jvhs24j">
+
+<!--twitter-->
+<area shape="circle" coords="100,190,30" alt="twitter" target="blank" href="https://twitter.com/livelihoodjob?s=11">
+
+<!---linkden-->
+<area shape="circle" coords="30,190,30" alt="linkden" target="blank" href="https://www.linkedin.com/company/livelihoodjobs">
+
+</map>
+
+
+
+<br><br><br><br>
+<hr>
+
+<br><br><br><br><br><br><br>
+<div class="aa">
+<a href="index.html"><bold>Home </bold></a>
+<a href="jobs.html"><bold>Jobs </bold></a>
+<a href="Aboutus.html"><bold>AboutUs </bold></a>
+<a href="#contact"><bold>Contact </bold></a>
+<br>
+ <p> © Copyright 2021 LiveliHood. All Right Reserved. <br><br> job done by <b>cisner.media</b>
+</p></div></center>
+<p></p>
+
+
+<script src="jsl.js"></script>
+
+
+
+
+</body></html>
